@@ -1,0 +1,4 @@
+S001,Kebede,Worku,0955000001,kebede@hotel.com,Front Desk,Receptionist,2500.0
+S002,Tigist,Haile,0955000002,tigist@hotel.com,Housekeeping,Room Attendant,1800.0
+S003,Michael,Tesfaye,0955000003,michael@hotel.com,Restaurant,Head Chef,3200.0
+S004,Meron,Bekele,0955000004,meron@hotel.com,Management,Hotel Manager,5000.0

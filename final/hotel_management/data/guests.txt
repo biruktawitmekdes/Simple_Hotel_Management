@@ -1,0 +1,5 @@
+G001,Abebe,Girma,0911234567,abebe@mail.com,Ethiopian,ET123456,1
+G002,Sara,Tadesse,0922345678,sara@mail.com,Ethiopian,ET789012,0
+G003,James,Miller,0933456789,james@mail.com,American,US987654,0
+G004,Fatima,Ali,0944567890,fatima@mail.com,Kenyan,KE456789,0
+G005,yeshiwas,tikimu,0988788766,hhy@hmail.com,ethiopian,45676324,0

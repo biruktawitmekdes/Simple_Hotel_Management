@@ -1,0 +1,31 @@
+2026-06-09 01:25:54 | Guest added: G005 (yeshiye bruk)
+2026-06-09 01:25:54 | Booking reserved: B0003 for guest G005 in room 501
+2026-06-09 01:25:54 | Remote reservation created: B0003 for guest G005 in room 501
+2026-06-09 01:28:37 | Payment accepted for booking: B0003
+2026-06-09 01:31:11 | Checked in booking: B0003 room 501
+2026-06-09 01:31:31 | Checked out booking: B0003 total $1000.0
+2026-06-09 01:43:47 | Room deleted: 501
+2026-06-09 01:47:25 | Room deleted: 101
+2026-06-09 22:50:16 | Guest added: G006 (yuo ytr)
+2026-06-09 22:50:16 | Booking reserved: B0004 for guest G006 in room 102
+2026-06-09 22:50:16 | Remote reservation created: B0004 for guest G006 in room 102
+2026-06-09 22:51:27 | Payment accepted for booking: B0004
+2026-06-09 22:51:38 | Checked in booking: B0004 room 102
+2026-06-09 22:52:26 | Checked out booking: B0004 total $60.0
+2026-06-09 23:09:39 | Guest added: G007 (werqe teferi)
+2026-06-09 23:09:39 | Booking reserved: B0005 for guest G007 in room 102
+2026-06-09 23:09:39 | Remote reservation created: B0005 for guest G007 in room 102
+2026-06-09 23:11:53 | Payment accepted for booking: B0005
+2026-06-09 23:12:02 | Checked in booking: B0005 room 102
+2026-06-09 23:12:51 | Checked out booking: B0005 total $79.0
+2026-06-09 23:54:09 | Guest added: G007 (yw uj)
+2026-06-09 23:54:09 | Booking reserved: B0005 for guest G007 in room 201
+2026-06-09 23:54:09 | Remote reservation created: B0005 for guest G007 in room 201
+2026-06-10 00:04:26 | Guest added: G008 (hd ws)
+2026-06-10 00:04:26 | Booking reserved: B0006 for guest G008 in room 401
+2026-06-10 00:04:26 | Remote reservation with extras created: B0006 for guest G008 in room 401
+2026-06-10 00:05:24 | Payment accepted for booking: B0006
+2026-06-10 00:05:30 | Checked in booking: B0006 room 401
+2026-06-10 00:15:57 | Payment accepted for booking: B0005
+2026-06-10 00:16:04 | Checked in booking: B0005 room 201
+2026-06-10 00:20:55 | Checked out booking: B0005 total $529.0
